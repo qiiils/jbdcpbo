@@ -63,7 +63,7 @@ public class View {
     System.out.println("Jumlah Barang\t\t: " + invoice.getQuantity());
     System.out.println("Total Bayar\t\t: " + invoice.calculateTotal());
     System.out.println("===============Kasir===============");
-    String myString = "Nabil";
+    String myString = "Dhiya";
     String uppercaseString = myString.toUpperCase();
     System.out.println("Kasir\t\t\t: " + uppercaseString);
 
